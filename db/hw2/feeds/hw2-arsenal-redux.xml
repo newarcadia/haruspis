@@ -1,0 +1,29 @@
+<feed>
+  <entry>
+    <date>2024-05-18</date>
+    <tag>BALANCE</tag>
+    <title>Population tweaks</title>
+    <summary>Reduced pop spikes on mass drop-ins and improved anti-air feel.</summary>
+    <headerImage>https://www.toledoblade.com/image/2009/03/07/600x_q90_a4-3_cTCjpg/Halo-Wars-comes-up-short-in-popular-series.jpg</headerImage>
+    <markdown><![CDATA[
+### Arsenal balance
+- Anti-air tracking is smoother with clearer hit feedback.
+- Mass drop-ins now respect per-wave population caps.
+
+![AA pass](https://www.toledoblade.com/image/2009/03/07/600x_q90_a4-3_cTCjpg/Halo-Wars-comes-up-short-in-popular-series.jpg)
+]]></markdown>
+  </entry>
+  <entry>
+    <date>2024-02-01</date>
+    <tag>FX</tag>
+    <title>FX polish sweep</title>
+    <summary>Updated explosion decals and rebalanced color grading.</summary>
+    <headerImage>https://cdn2.steamgriddb.com/icon/2c7b84fa30f0cea96a90729afe2970a0.ico</headerImage>
+    <markdown><![CDATA[
+### Visual punch-up
+New explosion decals and softer color grading make long matches easier to read.
+
+![FX pass](https://cdn2.steamgriddb.com/icon/2c7b84fa30f0cea96a90729afe2970a0.ico)
+]]></markdown>
+  </entry>
+</feed>

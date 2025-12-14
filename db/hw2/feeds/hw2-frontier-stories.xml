@@ -1,0 +1,28 @@
+<feed>
+  <entry>
+    <date>2024-06-02</date>
+    <tag>STORY</tag>
+    <title>Episode 3 released</title>
+    <summary>New cinematics, VO, and branching objective outcomes.</summary>
+    <headerImage>https://www.toledoblade.com/image/2009/03/07/600x_q90_a4-3_cTCjpg/Halo-Wars-comes-up-short-in-popular-series.jpg</headerImage>
+    <markdown><![CDATA[
+## Episode 3: Glassed Horizon
+The co-op arc continues with two endings and synchronized VO.
+
+![Episode still](https://www.toledoblade.com/image/2009/03/07/600x_q90_a4-3_cTCjpg/Halo-Wars-comes-up-short-in-popular-series.jpg)
+]]></markdown>
+  </entry>
+  <entry>
+    <date>2024-03-05</date>
+    <tag>AUDIO</tag>
+    <title>Studio mix</title>
+    <summary>All dialogue rebalanced, new chorus for the title track.</summary>
+    <headerImage>https://cdn2.steamgriddb.com/icon/2c7b84fa30f0cea96a90729afe2970a0.ico</headerImage>
+    <markdown><![CDATA[
+### Audio remaster
+We rebuilt the mix to keep mission callouts clear even in heavy fights.
+
+![Studio pass](https://cdn2.steamgriddb.com/icon/2c7b84fa30f0cea96a90729afe2970a0.ico)
+]]></markdown>
+  </entry>
+</feed>

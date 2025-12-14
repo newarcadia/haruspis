@@ -1,0 +1,16 @@
+<mods>
+  <mod id="hw1-scrubb-edition">
+    <name>Scrubb Edition</name>
+    <game>Halo Wars 1</game>
+    <platform>Steam</platform>
+    <banner>https://staticdelivery.nexusmods.com/mods/3189/images/headers/44_1741718362.jpg</banner>
+    <icon>https://cdn2.steamgriddb.com/icon/2c7b84fa30f0cea96a90729afe2970a0.ico</icon>
+    <description>Halo Wars Scrubb Edition brings many additions and changes to the Halo Wars formula. Taking inspiration from other popular mods like Leader Overhaul Mod and More Leaders Mod, Scrubb Edition also aims to overhaul the game with all kinds of new units, maps, and soon even game modes!</description>
+    <download>https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=218&game_id=3189</download>
+    <version>1.2.3</version>
+    <flags>
+      <flag>English</flag>
+      <flag>Overhaul</flag>
+    </flags>
+  </mod>
+</mods>
