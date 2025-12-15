@@ -13,4 +13,20 @@
       <flag>Overhaul</flag>
     </flags>
   </mod>
+  <mod id="hw1-mlm-reforged">
+    <name>More Leaders Mod</name>
+    <game>Halo Wars 1</game>
+    <platform>Steam</platform>
+    <banner>https://staticdelivery.nexusmods.com/mods/3189/images/headers/33_1744493834.jpg</banner>
+    <icon>https://staticdelivery.nexusmods.com/mods/3189/images/33/33-1744493850-617846641.png</icon>
+    <description>This is a not so small mod with the simple goal of overhauling existing leaders and adding new ones like the Banished, Forerunners and Flood to Halo Wars.</description>
+    <download>http://github.com/newarcadia/MoreLeadersModReforged/releases/latest/download/release.zip</download>
+    <version>0.1.0</version>
+    <flags>
+      <flag>English</flag>
+      <flag>Gamemodes</flag>
+      <flag>Overhaul</flag>
+      <flag>New_Factions</flag>
+    </flags>
+  </mod>
 </mods>
