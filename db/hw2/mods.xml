@@ -1,3 +1,16 @@
 <mods>
- 
+   <mod id="hw2-nuphillion">
+    <name>Nuphillion</name>
+    <game>Halo Wars 2</game>
+    <platform>Microsoft Store</platform>
+    <banner></banner>
+    <icon></icon>
+    <description></description>
+    <download>https://github.com/CutesyThrower12/Nuphillion/releases/download/vInDev/nuphillion.zip</download>
+    <version>InDev</version>
+    <flags>
+      <flag>English</flag>
+      <flag>Overhaul</flag>
+    </flags>
+  </mod>
 </mods>
