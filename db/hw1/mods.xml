@@ -21,7 +21,7 @@
     <icon>https://staticdelivery.nexusmods.com/mods/3189/images/33/33-1744493850-617846641.png</icon>
     <description>This is a not so small mod with the simple goal of overhauling existing leaders and adding new ones like the Banished, Forerunners and Flood to Halo Wars.</description>
     <download>http://github.com/newarcadia/MoreLeadersModReforged/releases/latest/download/release.zip</download>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
     <flags>
       <flag>English</flag>
       <flag>Gamemodes</flag>
