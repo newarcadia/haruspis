@@ -13,4 +13,17 @@
       <flag>Overhaul</flag>
     </flags>
   </mod>
+<mod id="hw2-base">
+    <name>Halo Wars 2</name>
+    <game>Halo Wars 2</game>
+    <platform>Microsoft Store</platform>
+    <banner>https://gaming-cdn.com/images/products/1766/orig/halo-wars-2-pc-xbox-one-xbox-series-x-s-game-microsoft-store-cover.jpg?v=1737988707</banner>
+    <icon>https://store-images.s-microsoft.com/image/apps.6988.13510798886375954.7fab3417-408f-452b-bb10-612182e7a5ee.5708d7dd-59ab-411a-b732-5de746c6ee4c?q=90&w=177&h=177</icon>
+    <description>It’s the Halo experience you’ve dreamed of – controlling entire armies of Marines, Warthogs, Scorpion tanks, and Spartans on the battlefield from the Commander’s point of view. Halo Wars 2 is a real-time strategy game playable in native 4K Ultra HD graphics with HDR on the Xbox One X and Windows 10. Halo Wars 2 also supports Xbox Play Anywhere: Buy once, play on both Xbox and Windows 10.</description>
+    <download>http://github.com/newarcadia/MoreLeadersModReforged/releases/latest/download/release.zip</download>
+    <version>1.11.2931.2</version>
+    <flags>
+      <flag>Vanilla</flag>
+    </flags>
+  </mod>
 </mods>
