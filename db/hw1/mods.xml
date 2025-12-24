@@ -29,6 +29,32 @@
       <flag>New_Factions</flag>
     </flags>
   </mod>
+    <mod id="hw1-half-dragon">
+    <name>Half Dragon Mod</name>
+    <game>Halo Wars 1</game>
+    <platform>Steam</platform>
+    <banner>https://media.moddb.com/cache/images/mods/1/51/50719/thumb_620x2000/mod4.jpg</banner>
+    <icon>https://media.moddb.com/cache/images/downloads/1/218/217341/thumb_620x2000/mod6.png</icon>
+    <description>First release of the Half Dragon Mod V1.0</description>
+    <download>https://www.moddb.com/downloads/mirror/217341/135/931940a7ddf7b55b2c1cc3f8e806187d/?</download>
+    <version>1.0.0</version>
+    <flags>
+      <flag>English</flag>
+    </flags>
+  </mod>
+  <mod id="hw1-duckman-ai-overhaul">
+    <name>Duckman's AI/Skirmish overhaul</name>
+    <game>Halo Wars 1</game>
+    <platform>Steam</platform>
+    <banner>https://media.moddb.com/cache/images/mods/1/53/52859/thumb_620x2000/halowarsimage3.png</banner>
+    <icon>https://media.moddb.com/cache/images/mods/1/53/52859/thumb_620x2000/halowarsimage1.png</icon>
+    <description>If you like halowars1 and want to play vs ai but cant due to the ai being terrible and want a new fresh take on the game's balance than this is the best mod out there for that. Every unit has been altered to fit the balance of this mod and make the ai much more difficult and most importantly uncheeseable. Play by yourself or with friends online against a new level of bots that will make you really need to play halowars1 at its fullest to defeat. This mod is meant for people looking for a fun challenge. One that doesn't cheat too hard like automatic ai difficulty does, but instead makes the bots more intelligent and consistent. Plenty of bug fixes that the base game had in it and many more viable strategies than the base game. Every unit should feel usable and effective as long as the situation calls for it. I really hope you enjoy as much as me and my friends have.</description>
+    <download>https://www.moddb.com/downloads/mirror/228844/135/4d9c254d2620000f67d63550892136f3/?</download>
+    <version>1.0.5</version>
+    <flags>
+      <flag>English</flag>
+    </flags>
+  </mod>
   <mod id="hw1-base">
     <name>Halo Wars: Definitive Edition</name>
     <game>Halo Wars 1</game>
