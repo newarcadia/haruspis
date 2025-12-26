@@ -17,16 +17,31 @@
     <name>More Leaders Mod</name>
     <game>Halo Wars 1</game>
     <platform>Steam</platform>
-    <banner>https://staticdelivery.nexusmods.com/mods/3189/images/headers/33_1744493834.jpg</banner>
-    <icon>https://staticdelivery.nexusmods.com/mods/3189/images/33/33-1744493850-617846641.png</icon>
+    <banner>https://github.com/newarcadia/MoreLeadersModReforged/blob/main/assets/banner.png?raw=true</banner>
+    <icon>https://github.com/newarcadia/MoreLeadersModReforged/blob/main/assets/icon.png?raw=true</icon>
     <description>This is a not so small mod with the simple goal of overhauling existing leaders and adding new ones like the Banished, Forerunners and Flood to Halo Wars.</description>
     <download>http://github.com/newarcadia/MoreLeadersModReforged/releases/latest/download/release.zip</download>
-    <version>0.1.1</version>
+    <version>1.0.0</version>
     <flags>
       <flag>English</flag>
       <flag>Gamemodes</flag>
       <flag>Overhaul</flag>
       <flag>New_Factions</flag>
+    </flags>
+  </mod>
+  <mod id="hw1-vanillaplus">
+    <name>Vanilla Plus</name>
+    <game>Halo Wars 1</game>
+    <platform>Steam</platform>
+    <banner>https://raw.githubusercontent.com/Blackandfan/VanillaPlus_2026/blob/release/assets/banner.png</banner>
+    <icon>https://raw.githubusercontent.com/Blackandfan/VanillaPlus_2026/blob/release/assets/icon.png</icon>
+    <description>This is a small update to the base game, adding new content while keeping the original gameplay.</description>
+    <download>http://github.com/Blackandfan/VanillaPlus_2026/releases/latest/download/release.zip</download>
+    <version>1.0.1.5</version>
+    <flags>
+      <flag>English</flag>
+      <flag>Gamemodes</flag>
+      <flag>Overhaul</flag>
     </flags>
   </mod>
     <mod id="hw1-half-dragon">
@@ -53,6 +68,87 @@
     <version>1.0.5</version>
     <flags>
       <flag>English</flag>
+    </flags>
+  </mod>  
+  <mod id="hw1-extreme">
+    <name>Halo Wars: Extreme</name>
+    <game>Halo Wars 1</game>
+    <platform>Steam</platform>
+    <banner>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Halo%20Wars%20Extreme/assets/banner.png?raw=true</banner>
+    <icon>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Halo%20Wars%20Extreme/assets/icon.png?raw=true</icon>
+    <description>A more Extreme version of halo wars: definitive edition.. Created by Samuelelelelele.
+    Features:
+
+    Pop cap: 10000
+    Starting money: 999999
+    Starting tech: 100
+    All upgrades are free and instant
+    All units are free and takes no population
+    All buildings cost 0 supplies and requires 0 tech
+    All abilities for units now recharges instantly
+    All leader abilities, like mac blast, odst drop and distruption bomb are now recharging instantly.
+    Captain Cutter has 10000 odst to drop instead of the old 10 + he has 1000 mac blast ready to use.
+    All unsc leaders can build up to 100 spartans + they can now hijack vultures and scarabs
+    All unsc leaders also gets 2 new units
+    All covenant leaders can build up to 10 leaders
+    All rebels bases now has 4 turrets instead of 2 turrets and 2 watchtowers
+    Captain Cutter, Forge and Anders can build heavy supply pads from the beginning
+    Captain Cutter and Forge starts with fully upgraded base.
+    All unsc leaders can upgrade to Grizzly, ODST and Hawks. If they upgrade to odst they will also get access to odst drop</description>
+    <download>http://github.com/newarcadia/Legacy-Mod-Archive/releases/latest/download/hwe_release.zip</download>
+    <version>1.2</version>
+    <flags>
+      <flag>Legacy</flag>
+    </flags>
+  </mod>
+  <mod id="hw1-nutritious-edition">
+    <name>Nutritious Edition</name>
+    <game>Halo Wars 1</game>
+    <platform>Steam</platform>
+    <banner>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Halo%20Wars%20Nutritious%20Edition/assets/banner.png?raw=true</banner>
+    <icon>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Halo%20Wars%20Nutritious%20Edition/assets/icon.png?raw=true</icon>
+    <description>A mod that attempts to change up the game by editing units and mechanics from base game while also adding some new units as well to make the overall experience new but familiar. Created by Lord Nutritious.
+    Supply pads and turrets build faster.
+    Added new base type for UNSC.
+    Training time for all units is shorter.
+    More units can fit in garrisons.
+    All Infantry can go inside garrisons.
+    Infantry move faster.
+    Air units no longer die from Cyro bomb.
+    Population values are changed.
+    Added 35 new units.
+    Added Many Weapon Types.
+    1 New UNSC leaders.</description>
+    <download>http://github.com/newarcadia/Legacy-Mod-Archive/releases/latest/download/nutri_release.zip</download>
+    <version>1.1.7</version>
+    <flags>
+      <flag>Legacy</flag>
+    </flags>
+  </mod>  
+  <mod id="hw1-playable-flood-unit-pack">
+    <name>Playable Flood+Unit Pack</name>
+    <game>Halo Wars 1</game>
+    <platform>Steam</platform>
+    <banner>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Playable%20Flood%20Unit%20Pack/assets/banner.png?raw=true</banner>
+    <icon>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Playable%20Flood%20Unit%20Pack/assets/icon.png?raw=true</icon>
+    <description>Adds buildable Flood, Forerunner, Rebel units, bases and campaign units to Covenant and UNSC. Created by bbc6rgf57ytty5yx.</description>
+    <download>http://github.com/newarcadia/Legacy-Mod-Archive/releases/latest/download/pfup_release.zip</download>
+    <version>1.0.0</version>
+    <flags>
+      <flag>Legacy</flag>
+    </flags>
+  </mod> 
+  <mod id="hw1-spooky-edition">
+    <name>Spooky Edition</name>
+    <game>Halo Wars 1</game>
+    <platform>Steam</platform>
+    <banner>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Spooky%20Edition/assets/banner.png?raw=true</banner>
+    <icon>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Spooky%20Edition/assets/icon.png?raw=true</icon>
+    <description>Ever wanted to play Halo Wars but thought "man this game doesn't really fit the Halloween spirit"? While I'm sure you haven't, this mod has come to exist anyway because why the hell not. Please be aware that this mod is basically a reskin to the game; there are no new units, upgrades, maps, or anything else of the sort. This is simply a mod that modifies the maps and lighting slightly to make it all a little more eerie, while also having the Flood tracks playing on all Skirmish maps for that added touch. The campaign has also gotten the same lighting treatment, but the music is untouched to not interfere with mission scripts that may or may not override music.</description>
+    <download>http://github.com/newarcadia/Legacy-Mod-Archive/releases/latest/download/spooky_release.zip</download>
+    <version>1.0.0</version>
+    <flags>
+      <flag>Legacy</flag>
     </flags>
   </mod>
   <mod id="hw1-base">
