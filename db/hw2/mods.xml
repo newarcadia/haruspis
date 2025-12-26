@@ -1,11 +1,25 @@
 <mods>
+   <mod id="hw2-maethrillian">
+    <name>Maethrillian</name>
+    <game>Halo Wars 2</game>
+    <platform>Microsoft Store</platform>
+    <banner></banner>
+    <icon>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/maethrillian.jpg</icon>
+    <description>Maethrillian aims to provide a new balanced experience for Halo Wars 2, made to encourage playstyle diversity and interactivity. Changes have been made to almost every leader and unit.</description>
+    <download>https://github.com/eitener/maethrillian/releases/latest/download/maethrillian.zip</download>
+    <version>3.0.0</version>
+    <flags>
+      <flag>English</flag>
+      <flag>Overhaul</flag>
+    </flags>
+  </mod>
    <mod id="hw2-nuphillion">
     <name>Nuphillion</name>
     <game>Halo Wars 2</game>
     <platform>Microsoft Store</platform>
     <banner></banner>
-    <icon></icon>
-    <description></description>
+    <icon>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/nuphillion.jpg</icon>
+    <description>A Halo Wars 2 mod set after Halo Infinite, featuring new factions, lore-rich commanders, and gameplay overhauls. Join us to explore Nuphillion, test builds, and shape the future of this fan-driven project. Built by the community, for the community.</description>
     <download>https://github.com/CutesyThrower12/Nuphillion/releases/download/vInDev/nuphillion.zip</download>
     <version>InDev</version>
     <flags>
@@ -13,7 +27,62 @@
       <flag>Overhaul</flag>
     </flags>
   </mod>
-<mod id="hw2-base">
+   <mod id="hw2-yappening">
+    <name>The Yappening</name>
+    <game>Halo Wars 2</game>
+    <platform>Microsoft Store</platform>
+    <banner></banner>
+    <icon>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/yap.jpg</icon>
+    <description>The wily Grunt YapYap has reappeared in Halo Wars 2. Replay the Yappening through this mod or try it out for the first time!</description>
+    <download>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/Resources/yappening.zip</download>
+    <version>1.0.0</version>
+    <flags>
+      <flag>English</flag>
+      <flag>Gamemode</flag>
+    </flags>
+  </mod>
+   <mod id="hw2-fightclub">
+    <name>Fight Club</name>
+    <game>Halo Wars 2</game>
+    <platform>Microsoft Store</platform>
+    <banner></banner>
+    <icon>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/color.jpg</icon>
+    <description>This is the mod used by Fight Club in their special streams. It mostly just changes player color and fixes some game issues.</description>
+    <download>https://github.com/Blackandfan/HW2-Yoda/releases/latest/download/package.zip</download>
+    <version>1.5.1</version>
+    <flags>
+      <flag>English</flag>
+      <flag>Streaming</flag>
+    </flags>
+  </mod>
+   <mod id="hw2-floodonslaught">
+    <name>Flood Onslaught</name>
+    <game>Halo Wars 2</game>
+    <platform>Microsoft Store</platform>
+    <banner></banner>
+    <icon>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/flood.jpg</icon>
+    <description>A small sideproject in which you play as a Survivor with a small unitbase and try to survive against constant Flood waves.</description>
+    <download>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/Resources/flood_onslaught.zip</download>
+    <version>1.0.0</version>
+    <flags>
+      <flag>English</flag>
+      <flag>Gamemode</flag>
+    </flags>
+  </mod>
+   <mod id="hw2-nolimits">
+    <name>No Limits</name>
+    <game>Halo Wars 2</game>
+    <platform>Microsoft Store</platform>
+    <banner></banner>
+    <icon>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/nolimit.jpg</icon>
+    <description>A small mod that removes any population, ressource or timer limit.</description>
+    <download>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/Resources/no_limits.zip</download>
+    <version>1.0.0</version>
+    <flags>
+      <flag>English</flag>
+    </flags>
+  </mod>
+  <mod id="hw2-base">
     <name>Halo Wars 2</name>
     <game>Halo Wars 2</game>
     <platform>Microsoft Store</platform>
