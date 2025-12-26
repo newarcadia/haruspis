@@ -44,17 +44,17 @@
       <flag>Overhaul</flag>
     </flags>
   </mod>
-    <mod id="hw1-half-dragon">
+  <mod id="hw1-half-dragon">
     <name>Half Dragon Mod</name>
     <game>Halo Wars 1</game>
     <platform>Steam</platform>
-    <banner>https://media.moddb.com/cache/images/mods/1/51/50719/thumb_620x2000/mod4.jpg</banner>
-    <icon>https://media.moddb.com/cache/images/downloads/1/218/217341/thumb_620x2000/mod6.png</icon>
+    <banner>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Half%20Dragon%20Mod/assets/banner.png?raw=true</banner>
+    <icon>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Half%20Dragon%20Mod/assets/icon.png?raw=true</icon>
     <description>First release of the Half Dragon Mod V1.0</description>
-    <download>https://www.moddb.com/downloads/mirror/217341/135/931940a7ddf7b55b2c1cc3f8e806187d/?</download>
+    <download>http://github.com/newarcadia/Legacy-Mod-Archive/releases/latest/download/hd_release.zip</download>
     <version>1.0.0</version>
     <flags>
-      <flag>English</flag>
+      <flag>Legacy</flag>
     </flags>
   </mod>
   <mod id="hw1-duckman-ai-overhaul">
