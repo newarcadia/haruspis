@@ -4,7 +4,7 @@
     <game>Halo Wars 1</game>
     <platform>Steam</platform>
     <banner>https://staticdelivery.nexusmods.com/mods/3189/images/headers/44_1741718362.jpg</banner>
-    <icon>https://cdn2.steamgriddb.com/icon/2c7b84fa30f0cea96a90729afe2970a0.ico</icon>
+    <icon>https://staticdelivery.nexusmods.com/mods/3189/images/44/44-1741734950-1188300594.png</icon>
     <description>Halo Wars Scrubb Edition brings many additions and changes to the Halo Wars formula. Taking inspiration from other popular mods like Leader Overhaul Mod and More Leaders Mod, Scrubb Edition also aims to overhaul the game with all kinds of new units, maps, and soon even game modes!</description>
     <download>https://www.moddb.com/downloads/mirror/287955/124/2df162c2e76ae42bc0634b018095eded/?</download>
     <version>1.2.3</version>
@@ -147,6 +147,19 @@
     <description>Ever wanted to play Halo Wars but thought "man this game doesn't really fit the Halloween spirit"? While I'm sure you haven't, this mod has come to exist anyway because why the hell not. Please be aware that this mod is basically a reskin to the game; there are no new units, upgrades, maps, or anything else of the sort. This is simply a mod that modifies the maps and lighting slightly to make it all a little more eerie, while also having the Flood tracks playing on all Skirmish maps for that added touch. The campaign has also gotten the same lighting treatment, but the music is untouched to not interfere with mission scripts that may or may not override music.</description>
     <download>http://github.com/newarcadia/Legacy-Mod-Archive/releases/latest/download/spooky_release.zip</download>
     <version>1.0.0</version>
+    <flags>
+      <flag>Legacy</flag>
+    </flags>
+  </mod>
+  <mod id="hw1-vanilla-spectator">
+    <name>Vanilla Spectator Mod</name>
+    <game>Halo Wars 1</game>
+    <platform>Steam</platform>
+    <banner>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Vanilla%20Spectator%20Mod/assets/banner.png?raw=true</banner>
+    <icon>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Vanilla%20Spectator%20Mod/assets/icon.png?raw=true</icon>
+    <description>This mod replaces the Random All option in the leader menu with a Spectator, allowing you to create unbalanced teams or to allow players to spectate a match.</description>
+    <download>http://github.com/newarcadia/Legacy-Mod-Archive/releases/latest/download/vanilla_spectator_release.zip</download>
+    <version>1.1.0</version>
     <flags>
       <flag>Legacy</flag>
     </flags>
