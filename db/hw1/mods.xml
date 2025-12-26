@@ -33,8 +33,8 @@
     <name>Vanilla Plus</name>
     <game>Halo Wars 1</game>
     <platform>Steam</platform>
-    <banner>https://raw.githubusercontent.com/Blackandfan/VanillaPlus_2026/blob/release/assets/banner.png</banner>
-    <icon>https://raw.githubusercontent.com/Blackandfan/VanillaPlus_2026/blob/release/assets/icon.png</icon>
+    <banner>https://github.com/Blackandfan/VanillaPlus_2026/blob/release/assets/banner.png?raw=true</banner>
+    <icon>https://github.com/Blackandfan/VanillaPlus_2026/blob/release/assets/icon.png?raw=true</icon>
     <description>This is a small update to the base game, adding new content while keeping the original gameplay.</description>
     <download>http://github.com/Blackandfan/VanillaPlus_2026/releases/latest/download/release.zip</download>
     <version>1.0.1.5</version>
