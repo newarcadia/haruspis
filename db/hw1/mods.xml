@@ -61,13 +61,14 @@
     <name>Duckman's AI/Skirmish overhaul</name>
     <game>Halo Wars 1</game>
     <platform>Steam</platform>
-    <banner>https://media.moddb.com/cache/images/mods/1/53/52859/thumb_620x2000/halowarsimage3.png</banner>
-    <icon>https://media.moddb.com/cache/images/mods/1/53/52859/thumb_620x2000/halowarsimage1.png</icon>
+    <banner>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Duckman's%20AI%20overhaul/assets/banner.png?raw=true</banner>
+    <icon>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Duckman's%20AI%20overhaul/assets/icon.png?raw=true</icon>
     <description>If you like halowars1 and want to play vs ai but cant due to the ai being terrible and want a new fresh take on the game's balance than this is the best mod out there for that. Every unit has been altered to fit the balance of this mod and make the ai much more difficult and most importantly uncheeseable. Play by yourself or with friends online against a new level of bots that will make you really need to play halowars1 at its fullest to defeat. This mod is meant for people looking for a fun challenge. One that doesn't cheat too hard like automatic ai difficulty does, but instead makes the bots more intelligent and consistent. Plenty of bug fixes that the base game had in it and many more viable strategies than the base game. Every unit should feel usable and effective as long as the situation calls for it. I really hope you enjoy as much as me and my friends have.</description>
-    <download>https://www.moddb.com/downloads/mirror/228844/135/4d9c254d2620000f67d63550892136f3/?</download>
+    <download>http://github.com/newarcadia/Legacy-Mod-Archive/releases/latest/download/duckman_ai_overhaul_release.zip</download>
     <version>1.0.5</version>
     <flags>
       <flag>English</flag>
+      <flag>Overhaul</flag>
     </flags>
   </mod>  
   <mod id="hw1-extreme">
@@ -162,6 +163,114 @@
     <version>1.1.0</version>
     <flags>
       <flag>Legacy</flag>
+    </flags>
+  </mod>
+  <mod id="hw1-desperate-desolation">
+    <name>Desperate Desolation</name>
+    <game>Halo Wars 1</game>
+    <platform>Steam</platform>
+    <banner>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Desperate%20Desolation/assets/banner.png?raw=true</banner>
+    <icon>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Desperate%20Desolation/assets/icon.png?raw=true</icon>
+    <description>This is meant to be time consuming and difficult for pvp. (thats the fun part) All buildings and units have been altered to be stronger or weaker, rebels and sentinels are tough opponents now and flood has LOTS of numbers. supplies are precious, they are generated very slowly and everything is expensive. that may seem rediculous and it is but so are cyclopses. this mod is meant to take time and make you think about economy over strategy, i expect lots of bugs, please post any you find. WARNING: some lines of text have been changed and may be deceving and really stupid.</description>
+    <download>http://github.com/newarcadia/Legacy-Mod-Archive/releases/latest/download/desperate_desolation_release.zip</download>
+    <version>1.2.0</version>
+    <flags>
+      <flag>Legacy</flag>
+    </flags>
+  </mod>
+  <mod id="hw1-kaids-forerunner-mod">
+    <name>Kaid's Forerunner Mod</name>
+    <game>Halo Wars 1</game>
+    <platform>Steam</platform>
+    <banner>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Kaid's%20Forerunner%20Mod/assets/banner.png?raw=true</banner>
+    <icon>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Kaid's%20Forerunner%20Mod/assets/icon.png?raw=true</icon>
+    <description>Goal: To make the Forerunner Defense System function as a playable faction alongside the base/vanilla game factions. This is my first attempt at developing a fully fleshed out mod/addon for public use. I wanted to at least release my current build to start getting feedback on balancing. While testing against vanilla AI kind of works it is hard to gauge if prices and the tech progression fits in an actual multiplayer match.</description>
+    <download>http://github.com/newarcadia/Legacy-Mod-Archive/releases/latest/download/kaid_forerunner_mod_release.zip</download>
+    <version>1.2.0</version>
+    <flags>
+      <flag>Legacy</flag>
+    </flags>
+  </mod>
+  <mod id="hw1-halo-3-edition">
+    <name>Halo 3 Edition</name>
+    <game>Halo Wars 1</game>
+    <platform>Steam</platform>
+    <banner>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Halo%203%20edition/assets/banner.png?raw=true</banner>
+    <icon>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Halo%203%20edition/assets/icon.png?raw=true</icon>
+    <description>Now you may be wondering "Wtf is this mod about?" Well it's in the title to make Halo Wars more like Halo 3. This will range from some new units like different ranked elites, brute, and grunts and new vehicles like the fuel rod wraith. Units will now also use Halo 3 stats and new upgrades that correlate with Halo 3. This mod won't be balanced at first so one faction may be way stronger than the other, you have been warned!</description>
+    <download>http://github.com/newarcadia/Legacy-Mod-Archive/releases/latest/download/halo_3_release.zip</download>
+    <version>1.1.0</version>
+    <flags>
+      <flag>Legacy</flag>
+    </flags>
+  </mod>
+  <mod id="hw1-campaign-pvp_mod">
+    <name>Campaign PvP Mod</name>
+    <game>Halo Wars 1</game>
+    <platform>Steam</platform>
+    <banner>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/campaign%20pvp%20mod/assets/banner.png?raw=true</banner>
+    <icon>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/campaign%20pvp%20mod/assets/icon.png?raw=true</icon>
+    <description>A Halo wars DE Mod which is campaign orientated. The campaign is given a overhaul with new units and PvP co-op where player 2 works alongside the enemy.</description>
+    <download>http://github.com/newarcadia/Legacy-Mod-Archive/releases/latest/download/campaign_pvp_release.zip</download>
+    <version>0.0.3</version>
+    <flags>
+      <flag>Legacy</flag>
+    </flags>
+  </mod>
+  <mod id="hw1-weapons-of-destruction">
+    <name>Weapons of Destruction</name>
+    <game>Halo Wars 1</game>
+    <platform>Steam</platform>
+    <banner>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Weapons%20of%20Destruction/assets/banner.png?raw=true</banner>
+    <icon>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Weapons%20of%20Destruction/assets/icon.png?raw=true</icon>
+    <description>N/A</description>
+    <download>http://github.com/newarcadia/Legacy-Mod-Archive/releases/latest/download/weapons_of_destruction_release.zip</download>
+    <version>1.8.2</version>
+    <flags>
+      <flag>Legacy</flag>
+    </flags>
+  </mod>
+  <mod id="hw1-all-the-units">
+    <name>All The Units</name>
+    <game>Halo Wars 1</game>
+    <platform>Steam</platform>
+    <banner>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/All%20The%20Units/assets/banner.png?raw=true</banner>
+    <icon>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/All%20The%20Units/assets/icon.png?raw=true</icon>
+    <description>All The Units is a more than massive UNSC mod for Halo Wars! Lots of New Units, Tech, and a entire new way to build your main base as the UNSC. This mod for the UNSC only, and the Campaign. This mod contains around 35-40 different troops that may be trained as well all sorts of custom Tech, including main base Tech.</description>
+    <download>http://github.com/newarcadia/Legacy-Mod-Archive/releases/latest/download/all_the_units_release.zip</download>
+    <version>1.4.0</version>
+    <flags>
+      <flag>English</flag>
+    </flags>
+  </mod>
+  <mod id="hw1-uncapped-population">
+    <name>Halo Wars Uncapped</name>
+    <game>Halo Wars 1</game>
+    <platform>Steam</platform>
+    <banner>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Halo%20Wars%20Uncapped/assets/banner.png?raw=true</banner>
+    <icon>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Halo%20Wars%20Uncapped/assets/icon.png?raw=true</icon>
+    <description>A simple mod that "slightly" increases the population limit from 50/60 to... 5000. If that somehow isn't enough you can research Reinforcements/Followers to double it to 10000! (You will crash before you max that out though)</description>
+    <download>http://github.com/newarcadia/Legacy-Mod-Archive/releases/latest/download/halo_wars_uncapped_release.zip</download>
+    <version>1.1.0</version>
+    <flags>
+      <flag>English</flag>
+    </flags>
+  </mod>
+  <mod id="hw1-automatic-200-multiplayer">
+    <name>Automatic 200 Multiplayer Mod</name>
+    <game>Halo Wars 1</game>
+    <platform>Steam</platform>
+    <banner>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Automatic%20200%20Multiplayer/assets/banner.png?raw=true</banner>
+    <icon>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Automatic%20200%20Multiplayer/assets/icon.png?raw=true</icon>
+    <description>
+      A funky little mod that replaces the difficulty multipliers of Legendary difficulty with the insanely difficult modifiers of Automatic 200 difficulty. What are those modifiers? 133% increased income, 133% increased damage, and 60% damage reduction.
+
+      This mod is multiplayer compatible, but NOT campaign compatible! (yet?)
+    </description>
+    <download>http://github.com/newarcadia/Legacy-Mod-Archive/releases/latest/download/automatic_200_multiplayer_release.zip</download>
+    <version>1.0.1</version>
+    <flags>
+      <flag>English</flag>
     </flags>
   </mod>
   <mod id="hw1-base">
