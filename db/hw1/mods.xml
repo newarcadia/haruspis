@@ -19,14 +19,15 @@
     <platform>Steam</platform>
     <banner>https://github.com/newarcadia/MoreLeadersModReforged/blob/main/assets/banner.png?raw=true</banner>
     <icon>https://github.com/newarcadia/MoreLeadersModReforged/blob/main/assets/icon.png?raw=true</icon>
-    <description>This is a not so small mod with the simple goal of overhauling existing leaders and adding new ones like the Banished, Forerunners and Flood to Halo Wars.</description>
+    <description>[Downloadsize is around 1.5GB, Exclusive to Haruspis] 
+      This is a not so small mod with the simple goal of overhauling existing leaders and adding new ones like the Banished, Forerunners and Flood to Halo Wars.</description>
     <download>http://github.com/newarcadia/MoreLeadersModReforged/releases/latest/download/release.zip</download>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <flags>
       <flag>English</flag>
       <flag>Gamemodes</flag>
       <flag>Overhaul</flag>
-      <flag>New_Factions</flag>
+      <flag>Exclusive</flag>
     </flags>
   </mod>
   <mod id="hw1-vanillaplus">
