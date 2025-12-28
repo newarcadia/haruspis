@@ -195,8 +195,8 @@
     <name>Halo 3 Edition</name>
     <game>Halo Wars 1</game>
     <platform>Steam</platform>
-    <banner>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Halo%203%20edition/assets/banner.png?raw=true</banner>
-    <icon>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Halo%203%20edition/assets/icon.png?raw=true</icon>
+    <banner>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Halo%203%20Edition/assets/banner.png?raw=true</banner>
+    <icon>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Halo%203%20Edition/assets/icon.png?raw=true</icon>
     <description>Now you may be wondering "Wtf is this mod about?" Well it's in the title to make Halo Wars more like Halo 3. This will range from some new units like different ranked elites, brute, and grunts and new vehicles like the fuel rod wraith. Units will now also use Halo 3 stats and new upgrades that correlate with Halo 3. This mod won't be balanced at first so one faction may be way stronger than the other, you have been warned!</description>
     <download>http://github.com/newarcadia/Legacy-Mod-Archive/releases/latest/download/halo_3_release.zip</download>
     <version>1.1.0</version>
@@ -208,8 +208,8 @@
     <name>Campaign PvP Mod</name>
     <game>Halo Wars 1</game>
     <platform>Steam</platform>
-    <banner>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/campaign%20pvp%20mod/assets/banner.png?raw=true</banner>
-    <icon>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/campaign%20pvp%20mod/assets/icon.png?raw=true</icon>
+    <banner>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Campaign%20PvP%20Overhaul/assets/banner.png?raw=true</banner>
+    <icon>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/campaign%20pPvP%20Overhaul/assets/icon.png?raw=true</icon>
     <description>A Halo wars DE Mod which is campaign orientated. The campaign is given a overhaul with new units and PvP co-op where player 2 works alongside the enemy.</description>
     <download>http://github.com/newarcadia/Legacy-Mod-Archive/releases/latest/download/campaign_pvp_release.zip</download>
     <version>0.0.3</version>
@@ -260,8 +260,8 @@
     <name>Automatic 200 Multiplayer Mod</name>
     <game>Halo Wars 1</game>
     <platform>Steam</platform>
-    <banner>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Automatic%20200%20Multiplayer/assets/banner.png?raw=true</banner>
-    <icon>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Automatic%20200%20Multiplayer/assets/icon.png?raw=true</icon>
+    <banner>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Automatic%20200%20Multiplayer%20Mod/assets/banner.png?raw=true</banner>
+    <icon>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Automatic%20200%20Multiplayer%20Mod/assets/icon.png?raw=true</icon>
     <description>
       A funky little mod that replaces the difficulty multipliers of Legendary difficulty with the insanely difficult modifiers of Automatic 200 difficulty. What are those modifiers? 133% increased income, 133% increased damage, and 60% damage reduction.
 
