@@ -1,20 +1,20 @@
 <feed>
   <entry>
     <date>2024-12-14</date>
-    <tag>New Version</tag>
+    <tag>PATCH</tag>
     <title>Version 1.5.1</title>
     <summary>Hotfix</summary>
-    <headerImage>https://www.toledoblade.com/image/2009/03/07/600x_q90_a4-3_cTCjpg/Halo-Wars-comes-up-short-in-popular-series.jpg</headerImage>
+    <headerImage>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/color.jpg</headerImage>
     <markdown>
 		<![CDATA[
 Adjusted dark map fog values]]></markdown>
   </entry>
   <entry>
     <date>2024-12-14</date>
-    <tag>New Version</tag>
+    <tag>PATCH</tag>
     <title>Version 1.5.0</title>
     <summary>Christmas theme, minor balance changes.</summary>
-    <headerImage>https://cdn2.steamgriddb.com/icon/2c7b84fa30f0cea96a90729afe2970a0.ico</headerImage>
+    <headerImage>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/color.jpg</headerImage>
     <markdown>
 		<![CDATA[
 [Changelog]
@@ -25,10 +25,10 @@ Removed veh infector Track Mask (removing movement delay)]]></markdown>
   </entry>
   <entry>
     <date>2024-11-29</date>
-    <tag>New Version</tag>
+    <tag>PATCH</tag>
     <title>Version 1.4.6</title>
     <summary>Minor balance changes.</summary>
-    <headerImage>https://cdn2.steamgriddb.com/icon/2c7b84fa30f0cea96a90729afe2970a0.ico</headerImage>
+    <headerImage>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/color.jpg</headerImage>
     <markdown>
     <![CDATA[
 [Changelog]
@@ -37,10 +37,10 @@ Readjusted infected grizzly leash settings (it shouldnt go off on its own anymor
   </entry>
   <entry>
     <date>2024-11-25</date>
-    <tag>New Version</tag>
+    <tag>PATCH</tag>
     <title>Version 1.4.5</title>
     <summary>Minor balance changes.</summary>
-    <headerImage>https://cdn2.steamgriddb.com/icon/2c7b84fa30f0cea96a90729afe2970a0.ico</headerImage>
+    <headerImage>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/color.jpg</headerImage>
     <markdown>
     <![CDATA[
 [Changelog]
@@ -49,10 +49,10 @@ Reduced flood egg drop cooldown from 110 to 90 seconds]]></markdown>
   </entry>
   <entry>
     <date>2024-11-24</date>
-    <tag>New Version</tag>
+    <tag>PATCH</tag>
     <title>Version 1.4.4</title>
     <summary>Minor balance changes.</summary>
-    <headerImage>https://cdn2.steamgriddb.com/icon/2c7b84fa30f0cea96a90729afe2970a0.ico</headerImage>
+    <headerImage>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/color.jpg</headerImage>
     <markdown>
     <![CDATA[
 [Changelog]
@@ -63,10 +63,10 @@ Replaced pod infectors with veh and air infectors for the leader power drop.]]><
   </entry>
   <entry>
     <date>2024-11-24</date>
-    <tag>New Version</tag>
+    <tag>PATCH</tag>
     <title>Version 1.4.3</title>
     <summary>Minor balance changes.</summary>
-    <headerImage>https://cdn2.steamgriddb.com/icon/2c7b84fa30f0cea96a90729afe2970a0.ico</headerImage>
+    <headerImage>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/color.jpg</headerImage>
     <markdown>
     <![CDATA[
 [Changelog]
@@ -81,10 +81,10 @@ Flood hero unit firing rate increased]]></markdown>
   </entry>
   <entry>
     <date>2024-11-9</date>
-    <tag>New Version</tag>
+    <tag>PATCH</tag>
     <title>Version 1.4.2</title>
     <summary>Minor balance changes.</summary>
-    <headerImage>https://cdn2.steamgriddb.com/icon/2c7b84fa30f0cea96a90729afe2970a0.ico</headerImage>
+    <headerImage>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/color.jpg</headerImage>
     <markdown>
     <![CDATA[
 [Changelog]
@@ -98,10 +98,10 @@ Increased flood drop cooldown by 60 seconds]]></markdown>
   </entry>
   <entry>
     <date>2024-11-8</date>
-    <tag>New Version</tag>
+    <tag>PATCH</tag>
     <title>Version 1.4.1</title>
     <summary>Minor balance changes.</summary>
-    <headerImage>https://cdn2.steamgriddb.com/icon/2c7b84fa30f0cea96a90729afe2970a0.ico</headerImage>
+    <headerImage>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/color.jpg</headerImage>
     <markdown>
     <![CDATA[
 [Changelog]
@@ -115,10 +115,10 @@ Heat of battle does now affect heroes (Kinsano)]]></markdown>
   </entry>
   <entry>
     <date>2024-11-4</date>
-    <tag>New Version</tag>
+    <tag>PATCH</tag>
     <title>Version 1.4.0</title>
     <summary>Minor balance changes.</summary>
-    <headerImage>https://cdn2.steamgriddb.com/icon/2c7b84fa30f0cea96a90729afe2970a0.ico</headerImage>
+    <headerImage>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/color.jpg</headerImage>
     <markdown>
     <![CDATA[
 [Changelog]
@@ -131,10 +131,10 @@ Flood does now have its own Combat Repair with around half the effects]]></markd
   </entry>
   <entry>
     <date>2024-11-3</date>
-    <tag>New Version</tag>
+    <tag>PATCH</tag>
     <title>Version 1.3.5.1</title>
     <summary>Minor balance changes.</summary>
-    <headerImage>https://cdn2.steamgriddb.com/icon/2c7b84fa30f0cea96a90729afe2970a0.ico</headerImage>
+    <headerImage>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/color.jpg</headerImage>
     <markdown>
     <![CDATA[
 [Changelog]
@@ -145,10 +145,10 @@ Infected Nightingale does now appear in the minimap]]></markdown>
   </entry>
   <entry>
     <date>2024-10-31</date>
-    <tag>New Version</tag>
+    <tag>PATCH</tag>
     <title>Version 1.3.5</title>
     <summary>Minor balance changes.</summary>
-    <headerImage>https://cdn2.steamgriddb.com/icon/2c7b84fa30f0cea96a90729afe2970a0.ico</headerImage>
+    <headerImage>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/color.jpg</headerImage>
     <markdown>
     <![CDATA[
 [Changelog]
@@ -163,10 +163,10 @@ Added Flood AI]]></markdown>
   </entry>
   <entry>
     <date>2024-10-31</date>
-    <tag>New Version</tag>
+    <tag>PATCH</tag>
     <title>Version 1.3.4</title>
     <summary>Minor balance changes.</summary>
-    <headerImage>https://cdn2.steamgriddb.com/icon/2c7b84fa30f0cea96a90729afe2970a0.ico</headerImage>
+    <headerImage>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/color.jpg</headerImage>
     <markdown>
     <![CDATA[
 [Changelog]
@@ -179,10 +179,10 @@ Buffed infected rocket DPS (25 -> 42)]]></markdown>
   </entry>
   <entry>
     <date>2024-10-31</date>
-    <tag>New Version</tag>
+    <tag>PATCH</tag>
     <title>Version 1.3.3</title>
     <summary>Minor balance changes.</summary>
-    <headerImage>https://cdn2.steamgriddb.com/icon/2c7b84fa30f0cea96a90729afe2970a0.ico</headerImage>
+    <headerImage>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/color.jpg</headerImage>
     <markdown>
     <![CDATA[
 [Changelog]
@@ -193,10 +193,10 @@ removed pop for infection forms (since you cant infect units with a full populat
   </entry>
   <entry>
     <date>2024-10-31</date>
-    <tag>New Version</tag>
+    <tag>PATCH</tag>
     <title>Version 1.3.2</title>
     <summary>Minor balance changes.</summary>
-    <headerImage>https://cdn2.steamgriddb.com/icon/2c7b84fa30f0cea96a90729afe2970a0.ico</headerImage>
+    <headerImage>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/color.jpg</headerImage>
     <markdown>
     <![CDATA[
 [Changelog]
@@ -208,10 +208,10 @@ Increased selection radius for ressource pickups]]></markdown>
   </entry>
   <entry>
     <date>2024-10-31</date>
-    <tag>New Version</tag>
+    <tag>PATCH</tag>
     <title>Version 1.3.1</title>
     <summary>Minor balance changes.</summary>
-    <headerImage>https://cdn2.steamgriddb.com/icon/2c7b84fa30f0cea96a90729afe2970a0.ico</headerImage>
+    <headerImage>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/color.jpg</headerImage>
     <markdown>
     <![CDATA[
 [Changelog]
@@ -228,10 +228,10 @@ Fixed infected elite rangers]]></markdown>
   </entry>
   <entry>
     <date>2024-10-24</date>
-    <tag>New Version</tag>
+    <tag>PATCH</tag>
     <title>Version 1.2</title>
     <summary>Minor balance changes.</summary>
-    <headerImage>https://cdn2.steamgriddb.com/icon/2c7b84fa30f0cea96a90729afe2970a0.ico</headerImage>
+    <headerImage>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/color.jpg</headerImage>
     <markdown>
     <![CDATA[
 [Changelog]
@@ -245,10 +245,10 @@ Added infected cannon fodder squad]]></markdown>
   </entry>
   <entry>
     <date>2024-10-24</date>
-    <tag>New Version</tag>
+    <tag>MAJOR UPDATE</tag>
     <title>Version 1.1</title>
     <summary>Flood leader added.</summary>
-    <headerImage>https://cdn2.steamgriddb.com/icon/2c7b84fa30f0cea96a90729afe2970a0.ico</headerImage>
+    <headerImage>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/color.jpg</headerImage>
     <markdown>
     <![CDATA[
 [Changelog]
@@ -257,10 +257,10 @@ Replaces Forerunner Nodes and Sentinels with a flood themed variant.]]></markdow
   </entry>
   <entry>
     <date>2024-10-24</date>
-    <tag>New Version</tag>
+    <tag>PATCH</tag>
     <title>Version 1.0</title>
     <summary>Texture updates, blitz skins and unit colors.</summary>
-    <headerImage>https://cdn2.steamgriddb.com/icon/2c7b84fa30f0cea96a90729afe2970a0.ico</headerImage>
+    <headerImage>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/color.jpg</headerImage>
     <markdown>
     <![CDATA[
 [Changelog]
