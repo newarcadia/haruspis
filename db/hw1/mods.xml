@@ -14,7 +14,7 @@
     </flags>
   </mod>
   <mod id="hw1-mlm-reforged">
-    <name>More Leaders Mod</name>
+    <name>More Leaders Mod Reforged</name>
     <game>Halo Wars 1</game>
     <platform>Steam</platform>
     <banner>https://github.com/newarcadia/MoreLeadersModReforged/blob/main/assets/banner.png?raw=true</banner>
@@ -31,18 +31,17 @@
     </flags>
   </mod>
   <mod id="hw1-vanillaplus">
-    <name>Vanilla Plus</name>
+    <name>Vanilla Plus (2026)</name>
     <game>Halo Wars 1</game>
     <platform>Steam</platform>
     <banner>https://github.com/Blackandfan/VanillaPlus_2026/blob/release/assets/banner.png?raw=true</banner>
     <icon>https://github.com/Blackandfan/VanillaPlus_2026/blob/release/assets/icon.png?raw=true</icon>
-    <description>This is a small update to the base game, adding new content while keeping the original gameplay.</description>
+    <description>This is a small update to the base game, adding new content while keeping the original gameplay, such as gamemodes and maps(tbd).</description>
     <download>http://github.com/Blackandfan/VanillaPlus_2026/releases/latest/download/release.zip</download>
-    <version>1.0.1.5</version>
+    <version>1.1</version>
     <flags>
       <flag>English</flag>
       <flag>Gamemodes</flag>
-      <flag>Overhaul</flag>
     </flags>
   </mod>
   <mod id="hw1-half-dragon">
