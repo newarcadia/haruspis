@@ -3,8 +3,8 @@
     <name>Maethrillian</name>
     <game>Halo Wars 2</game>
     <platform>Microsoft Store</platform>
-    <banner>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/maethrillian.jpg</banner>
-    <icon>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/maethrillian.jpg</icon>
+    <banner>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/maethrillian.webp</banner>
+    <icon>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/maethrillian.webp</icon>
     <description>Maethrillian aims to provide a new balanced experience for Halo Wars 2, made to encourage playstyle diversity and interactivity. Changes have been made to almost every leader and unit.</description>
     <download>https://github.com/eitener/maethrillian/releases/latest/download/maethrillian.zip</download>
     <version>3.0.0</version>
@@ -17,8 +17,8 @@
     <name>Nuphillion</name>
     <game>Halo Wars 2</game>
     <platform>Microsoft Store</platform>
-    <banner>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/nuphillion.jpg</banner>
-    <icon>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/nuphillion.jpg</icon>
+    <banner>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/nuphillion.webp</banner>
+    <icon>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/nuphillion.webp</icon>
     <description>A Halo Wars 2 mod set after Halo Infinite, featuring new factions, lore-rich commanders, and gameplay overhauls. Join us to explore Nuphillion, test builds, and shape the future of this fan-driven project. Built by the community, for the community.</description>
     <download>https://github.com/CutesyThrower12/Nuphillion/releases/download/vInDev/nuphillion.zip</download>
     <version>InDev</version>
@@ -31,8 +31,8 @@
     <name>The Yappening</name>
     <game>Halo Wars 2</game>
     <platform>Microsoft Store</platform>
-    <banner>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/yap.jpg</banner>
-    <icon>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/yap.jpg</icon>
+    <banner>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/yap.webp</banner>
+    <icon>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/yap.webp</icon>
     <description>The wily Grunt YapYap has reappeared in Halo Wars 2. Replay the Yappening through this mod or try it out for the first time!</description>
     <download>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/Resources/yappening.zip</download>
     <version>1.0.0</version>
@@ -45,8 +45,8 @@
     <name>Fight Club</name>
     <game>Halo Wars 2</game>
     <platform>Microsoft Store</platform>
-    <banner>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/color.jpg</banner>
-    <icon>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/color.jpg</icon>
+    <banner>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/color.webp</banner>
+    <icon>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/color.webp</icon>
     <description>This is the mod used by Fight Club in their special streams. It mostly just changes player color and fixes some game issues.</description>
     <download>https://github.com/Blackandfan/HW2-Yoda/releases/latest/download/package.zip</download>
     <version>1.5.1</version>
@@ -59,8 +59,8 @@
     <name>Flood Onslaught</name>
     <game>Halo Wars 2</game>
     <platform>Microsoft Store</platform>
-    <banner>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/flood.jpg</banner>
-    <icon>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/flood.jpg</icon>
+    <banner>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/flood.webp</banner>
+    <icon>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/flood.webp</icon>
     <description>A small sideproject in which you play as a Survivor with a small unitbase and try to survive against constant Flood waves.</description>
     <download>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/Resources/flood_onslaught.zip</download>
     <version>1.0.0</version>
@@ -73,8 +73,8 @@
     <name>No Limits</name>
     <game>Halo Wars 2</game>
     <platform>Microsoft Store</platform>
-    <banner>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/nolimit.jpg</banner>
-    <icon>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/nolimit.jpg</icon>
+    <banner>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/nolimit.webp</banner>
+    <icon>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/nolimit.webp</icon>
     <description>A small mod that removes any population, ressource or timer limit.</description>
     <download>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/Resources/no_limits.zip</download>
     <version>1.0.0</version>
@@ -87,7 +87,7 @@
     <game>Halo Wars 2</game>
     <platform>Microsoft Store</platform>
     <banner>https://gaming-cdn.com/images/products/1766/orig/halo-wars-2-pc-xbox-one-xbox-series-x-s-game-microsoft-store-cover.jpg?v=1737988707</banner>
-    <icon>https://store-images.s-microsoft.com/image/apps.6988.13510798886375954.7fab3417-408f-452b-bb10-612182e7a5ee.5708d7dd-59ab-411a-b732-5de746c6ee4c?q=90&w=177&h=177</icon>
+    <icon>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/hw2.webp</icon>
     <description>It’s the Halo experience you’ve dreamed of – controlling entire armies of Marines, Warthogs, Scorpion tanks, and Spartans on the battlefield from the Commander’s point of view. Halo Wars 2 is a real-time strategy game playable in native 4K Ultra HD graphics with HDR on the Xbox One X and Windows 10. Halo Wars 2 also supports Xbox Play Anywhere: Buy once, play on both Xbox and Windows 10.</description>
     <download>http://github.com/newarcadia/MoreLeadersModReforged/releases/latest/download/release.zip</download>
     <version>1.11.2931.2</version>
