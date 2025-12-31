@@ -1,0 +1,30 @@
+<feed>
+  <entry>
+    <date>2025-12-31</date>
+    <tag>New Version</tag>
+    <title>Version 1.2.0</title>
+    <summary>Updated to support Spirit of Fire missions + other misc tweaks</summary>
+    <headerImage>https://www.toledoblade.com/image/2009/03/07/600x_q90_a4-3_cTCjpg/Halo-Wars-comes-up-short-in-popular-series.jpg</headerImage>
+    <markdown>
+		<![CDATA[
+Version 1.2.0
+
+[Major Changes]
+
+= Transport powers uncapped =
+Five. Hundred. Pelicans.
+
+= Covenant Leader Power wheel =
+The Covenant now have access to a leader power wheel, and can use Heal & Repair as well as Spirit Transport.
+
+= New Skull: Turbo Powers - Replaces Emperor =
+Skull Effects: SIGNIFICANTLY reduces the time needed for leader powers to recharge. Final Score significantly decreased.
+
+[Misc Changes]
+> Score multiplier from Turbo Mode is now significantly reduced.
+> Turbo Mode now works properly on the Spirit of Fire missions by allowing the Power Core to generate additional income.
+> Turbo mode now also affects the research time of the Adrenaline upgrade.
+> Covenant now has access to the Reserves upgrade.
+> Tweaked AI file to be more responsive]]></markdown>
+  </entry>
+</feed>
