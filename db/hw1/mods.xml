@@ -251,7 +251,7 @@
     <icon>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Halo%20Wars%20Uncapped/assets/icon.webp?raw=true</icon>
     <description>A simple mod that "slightly" increases the population limit from 50/60 to... 5000. If that somehow isn't enough you can research Reinforcements/Followers to double it to 10000! (You will crash before you max that out though)</description>
     <download>http://github.com/newarcadia/Legacy-Mod-Archive/releases/latest/download/halo_wars_uncapped_release.zip</download>
-    <version>1.1.0</version>
+    <version>1.2.0</version>
     <flags>
       <flag>English</flag>
     </flags>
