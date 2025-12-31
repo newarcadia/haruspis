@@ -44,7 +44,7 @@
       <flag>Gamemodes</flag>
     </flags>
   </mod>
-  <mod id="hw1-half-dragon">
+  <mod id="hw1-half-dragon" creator="Half Dragon">
     <name>Half Dragon Mod</name>
     <game>Halo Wars 1</game>
     <platform>Steam</platform>
