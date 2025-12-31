@@ -1,5 +1,5 @@
 <mods>
-  <mod id="hw1-scrubb-edition">
+  <mod id="hw1-scrubb-edition" creator="ScrubbaNubNub">
     <name>Scrubb Edition</name>
     <game>Halo Wars 1</game>
     <platform>Steam</platform>
@@ -13,7 +13,7 @@
       <flag>Overhaul</flag>
     </flags>
   </mod>
-  <mod id="hw1-mlm-reforged">
+  <mod id="hw1-mlm-reforged" creator="Blackandfan">
     <name>More Leaders Mod Reforged</name>
     <game>Halo Wars 1</game>
     <platform>Steam</platform>
@@ -30,7 +30,7 @@
       <flag>Exclusive</flag>
     </flags>
   </mod>
-  <mod id="hw1-vanillaplus">
+  <mod id="hw1-vanillaplus" creator="Blackandfan">
     <name>Vanilla Plus (2026)</name>
     <game>Halo Wars 1</game>
     <platform>Steam</platform>
@@ -57,7 +57,7 @@
       <flag>Legacy</flag>
     </flags>
   </mod>
-  <mod id="hw1-duckman-ai-overhaul">
+  <mod id="hw1-duckman-ai-overhaul" creator="ShawnBarton">
     <name>Duckman's AI/Skirmish overhaul</name>
     <game>Halo Wars 1</game>
     <platform>Steam</platform>
@@ -71,7 +71,7 @@
       <flag>Overhaul</flag>
     </flags>
   </mod>  
-  <mod id="hw1-extreme">
+  <mod id="hw1-extreme" creator="Samuelelelelele">
     <name>Halo Wars: Extreme</name>
     <game>Halo Wars 1</game>
     <platform>Steam</platform>
@@ -102,7 +102,7 @@
       <flag>Legacy</flag>
     </flags>
   </mod>
-  <mod id="hw1-nutritious-edition">
+  <mod id="hw1-nutritious-edition" creator="Lord Nutritious">
     <name>Nutritious Edition</name>
     <game>Halo Wars 1</game>
     <platform>Steam</platform>
@@ -126,7 +126,7 @@
       <flag>Legacy</flag>
     </flags>
   </mod>  
-  <mod id="hw1-playable-flood-unit-pack">
+  <mod id="hw1-playable-flood-unit-pack" creator="bbc6rgf57ytty5yx">
     <name>Playable Flood+Unit Pack</name>
     <game>Halo Wars 1</game>
     <platform>Steam</platform>
@@ -139,7 +139,7 @@
       <flag>Legacy</flag>
     </flags>
   </mod> 
-  <mod id="hw1-spooky-edition">
+  <mod id="hw1-spooky-edition" creator="ScrubbaNubNub">
     <name>Spooky Edition</name>
     <game>Halo Wars 1</game>
     <platform>Steam</platform>
@@ -152,7 +152,7 @@
       <flag>Legacy</flag>
     </flags>
   </mod>
-  <mod id="hw1-vanilla-spectator">
+  <mod id="hw1-vanilla-spectator" creator="ladywoodgrill">
     <name>Vanilla Spectator Mod</name>
     <game>Halo Wars 1</game>
     <platform>Steam</platform>
@@ -165,7 +165,7 @@
       <flag>Legacy</flag>
     </flags>
   </mod>
-  <mod id="hw1-desperate-desolation">
+  <mod id="hw1-desperate-desolation" creator="Dread Core">
     <name>Desperate Desolation</name>
     <game>Halo Wars 1</game>
     <platform>Steam</platform>
@@ -178,7 +178,7 @@
       <flag>Legacy</flag>
     </flags>
   </mod>
-  <mod id="hw1-kaids-forerunner-mod">
+  <mod id="hw1-kaids-forerunner-mod" creator="Kaid/six7six">
     <name>Kaid's Forerunner Mod</name>
     <game>Halo Wars 1</game>
     <platform>Steam</platform>
@@ -191,7 +191,7 @@
       <flag>Legacy</flag>
     </flags>
   </mod>
-  <mod id="hw1-halo-3-edition">
+  <mod id="hw1-halo-3-edition" creator="TobyMac01">
     <name>Halo 3 Edition</name>
     <game>Halo Wars 1</game>
     <platform>Steam</platform>
@@ -204,7 +204,7 @@
       <flag>Legacy</flag>
     </flags>
   </mod>
-  <mod id="hw1-campaign-pvp_mod">
+  <mod id="hw1-campaign-pvp_mod" creator="The Ghost Of Five">
     <name>Campaign PvP Mod</name>
     <game>Halo Wars 1</game>
     <platform>Steam</platform>
@@ -217,7 +217,7 @@
       <flag>Legacy</flag>
     </flags>
   </mod>
-  <mod id="hw1-weapons-of-destruction">
+  <mod id="hw1-weapons-of-destruction" creator="IHaloJuryI">
     <name>Weapons of Destruction</name>
     <game>Halo Wars 1</game>
     <platform>Steam</platform>
@@ -230,7 +230,7 @@
       <flag>Legacy</flag>
     </flags>
   </mod>
-  <mod id="hw1-all-the-units">
+  <mod id="hw1-all-the-units" creator="Nomad Thunder">
     <name>All The Units</name>
     <game>Halo Wars 1</game>
     <platform>Steam</platform>
@@ -243,7 +243,7 @@
       <flag>English</flag>
     </flags>
   </mod>
-  <mod id="hw1-uncapped-population">
+  <mod id="hw1-uncapped-population" creator="ScrubbaNubNub">
     <name>Halo Wars Uncapped</name>
     <game>Halo Wars 1</game>
     <platform>Steam</platform>
@@ -256,7 +256,7 @@
       <flag>English</flag>
     </flags>
   </mod>
-  <mod id="hw1-automatic-200-multiplayer">
+  <mod id="hw1-automatic-200-multiplayer" creator="ScrubbaNubNub">
     <name>Automatic 200 Multiplayer Mod</name>
     <game>Halo Wars 1</game>
     <platform>Steam</platform>

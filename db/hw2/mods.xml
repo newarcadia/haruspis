@@ -1,5 +1,5 @@
 <mods>
-   <mod id="hw2-maethrillian">
+   <mod id="hw2-maethrillian" creator="Eitener">
     <name>Maethrillian</name>
     <game>Halo Wars 2</game>
     <platform>Microsoft Store</platform>
@@ -13,7 +13,7 @@
       <flag>Overhaul</flag>
     </flags>
   </mod>
-   <mod id="hw2-nuphillion">
+   <mod id="hw2-nuphillion" creator="CutesyThrower12">
     <name>Nuphillion</name>
     <game>Halo Wars 2</game>
     <platform>Microsoft Store</platform>
@@ -27,7 +27,7 @@
       <flag>Overhaul</flag>
     </flags>
   </mod>
-   <mod id="hw2-yappening">
+   <mod id="hw2-yappening" creator="Blackandfan">
     <name>The Yappening</name>
     <game>Halo Wars 2</game>
     <platform>Microsoft Store</platform>
@@ -41,7 +41,7 @@
       <flag>Gamemode</flag>
     </flags>
   </mod>
-   <mod id="hw2-fightclub">
+   <mod id="hw2-fightclub" creator="Blackandfan">
     <name>Fight Club</name>
     <game>Halo Wars 2</game>
     <platform>Microsoft Store</platform>
@@ -55,7 +55,7 @@
       <flag>Streaming</flag>
     </flags>
   </mod>
-   <mod id="hw2-floodonslaught">
+   <mod id="hw2-floodonslaught" creator="Blackandfan">
     <name>Flood Onslaught</name>
     <game>Halo Wars 2</game>
     <platform>Microsoft Store</platform>
@@ -69,7 +69,7 @@
       <flag>Gamemode</flag>
     </flags>
   </mod>
-   <mod id="hw2-nolimits">
+   <mod id="hw2-nolimits" creator="Blackandfan">
     <name>No Limits</name>
     <game>Halo Wars 2</game>
     <platform>Microsoft Store</platform>
