@@ -27,6 +27,20 @@
       <flag>Overhaul</flag>
     </flags>
   </mod>
+   <mod id="hw2-hollowwars" creator="Miller">
+    <name>Hollow Wars</name>
+    <game>Halo Wars 2</game>
+    <platform>Microsoft Store</platform>
+    <banner>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/hollow.webp</banner>
+    <icon>https://raw.githubusercontent.com/Blackandfan/HW2-Installer/main/MaethrillianInstaller.Desktop/Resources/hollow.webp</icon>
+    <description>It’s about getting a Scarab an hour and 30 minutes in.</description>
+    <download>https://github.com/RtavuTazumee/HollowWars/releases/download/Hollow/HollowWars.zip</download>
+    <version>InDev</version>
+    <flags>
+      <flag>English</flag>
+      <flag>Overhaul</flag>
+    </flags>
+  </mod>
    <mod id="hw2-yappening" creator="Blackandfan">
     <name>The Yappening</name>
     <game>Halo Wars 2</game>
