@@ -209,7 +209,7 @@
     <game>Halo Wars 1</game>
     <platform>Steam</platform>
     <banner>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Campaign%20PvP%20Overhaul/assets/banner.webp?raw=true</banner>
-    <icon>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/campaign%20PvP%20Overhaul/assets/icon.webp?raw=true</icon>
+    <icon></icon>
     <description>A Halo wars DE Mod which is campaign orientated. The campaign is given a overhaul with new units and PvP co-op where player 2 works alongside the enemy.</description>
     <download>http://github.com/newarcadia/Legacy-Mod-Archive/releases/latest/download/campaign_pvp_release.zip</download>
     <version>0.0.3</version>
