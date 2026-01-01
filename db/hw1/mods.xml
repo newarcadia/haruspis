@@ -52,7 +52,7 @@
     <icon>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Half%20Dragon%20Mod/assets/icon.webp?raw=true</icon>
     <description>First release of the Half Dragon Mod V1.0</description>
     <download>http://github.com/newarcadia/Legacy-Mod-Archive/releases/latest/download/hd_release.zip</download>
-    <version>1.1.0</version>
+    <version>1.2.0</version>
     <flags>
       <flag>Legacy</flag>
     </flags>
