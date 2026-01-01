@@ -273,6 +273,47 @@
       <flag>English</flag>
     </flags>
   </mod>
+  <mod id="hw1-arbiters-apprentice" creator="Crysilos">
+    <name>Arbiter's Apprentice</name>
+    <game>Halo Wars 1</game>
+    <platform>Steam</platform>
+    <banner>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Arbiter's%20Apprentice/assets/banner.webp?raw=true</banner>
+    <icon></icon>
+    <description>Adding new units and powers to compliment each leaders vanilla game strengths. New game mechanics that will breath new life into this already great game!</description>
+    <download>http://github.com/newarcadia/Legacy-Mod-Archive/releases/latest/download/arbiters_apprentice_release.zip</download>
+    <version>1.1.0</version>
+    <flags>
+      <flag>English</flag>
+    </flags>
+  </mod>
+  <mod id="hw1-leader-overhaul" creator="ladywoodgrill">
+    <name>Leader Overhaul Mod</name>
+    <game>Halo Wars 1</game>
+    <platform>Steam</platform>
+    <banner>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Leader%20Overhaul%20Mod/assets/banner.webp?raw=true</banner>
+    <icon>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Leader%20Overhaul%20Mod/assets/icon.webp?raw=true</icon>
+    <description>Leader Overhaul adds many new units and features, with the main goal of expanding the differences between each leader. There are also 3 new leaders, The United Rebel Front, The Flood, and The Grunt Rebellion</description>
+    <download>http://github.com/newarcadia/Legacy-Mod-Archive/releases/latest/download/leader_overhaul_mod_release.zip</download>
+    <version>1.7.1</version>
+    <flags>
+      <flag>Overhaul</flag>
+      <flag>English</flag>
+    </flags>
+  </mod>
+  <mod id="hw1-judgement-edition" creator="IHaloJuryI">
+    <name>Judgement Edition</name>
+    <game>Halo Wars 1</game>
+    <platform>Steam</platform>
+    <banner>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Judgement%20Edition/assets/banner.webp?raw=true</banner>
+    <icon>https://github.com/newarcadia/Legacy-Mod-Archive/blob/main/Judgement%20Edition/assets/icon.webp?raw=true</icon>
+    <description>This mod widely expands the base game, adding new units, buildings, upgrades, leaders, and even custom mechanics!</description>
+    <download>http://github.com/newarcadia/Legacy-Mod-Archive/releases/latest/download/judgement_edition_release.zip</download>
+    <version>1.9.1</version>
+    <flags>
+      <flag>Overhaul</flag>
+      <flag>English</flag>
+    </flags>
+  </mod>
   <mod id="hw1-base">
     <name>Halo Wars: Definitive Edition</name>
     <game>Halo Wars 1</game>
